@@ -1,6 +1,6 @@
 import {
   exportedData
-} from "../../../src/components/secondaryComponents/local/slider.vue"
+} from "../../components/mainComponents/home/secondary/slider.vue"
 
 // ---------- Arrays --------------------------
 var scaleX, scaleY, totTop, totRight, zIndex,
